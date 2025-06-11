@@ -1,7 +1,13 @@
 {
+  "name": "test_tprep02",
+  "version": "1.0.0",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "sqlite3": "^5.1.7"
   }
 }
-
